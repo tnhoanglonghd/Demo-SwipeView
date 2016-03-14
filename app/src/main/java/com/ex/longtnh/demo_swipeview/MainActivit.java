@@ -11,8 +11,6 @@ public class MainActivit extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-//        tao đang test này
-        final TextView textView = (TextView)findViewById(R.id.tv);
-        textView.setText("Hài hước");
+//      hài vl ra
     }
 }
